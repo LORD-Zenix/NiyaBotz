@@ -1,15 +1,15 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Putra💖 ~</h1>
+<h1 align="center">~ 🌐 Welcome I'M Zenix🌐 ~</h1>
 <br>
 <div align="center">
   </a>
     <br>
-  <p>PUTRAMODZ</p>
+  <p>ZENIXDEV</p>
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://youtube.com/@Putra_Modz_">- subscribe ya</a><p>
+<p><a href="https://youtube.com/@ZxMoba">- subscribe ya</a><p>
   
 </div>
     <div align="center">
@@ -21,9 +21,9 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Putra</li>
+ <b>Name:</b> Zenix</li>
 <li>
-<b>Umur:</b> 18 YearsOld
+<b>Umur:</b> 17 YearsOld
 </li>
 <li>
 <b>Skils:</b> Html,Js,C++
